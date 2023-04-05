@@ -1,6 +1,6 @@
 # Oracle Next Education
 
-![JAVASCRIPT](https://img.shields.io/badge/javascript-239120?style=for-the-badge&logo=python&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-239120?style=for-the-badge&logo=javascript&logoColor=white)
 
 <h1>A tecnologia é para todos</h1>
 
@@ -8,3 +8,4 @@
 O curso é 100% online e totalmente gratuito, feito para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.</p>
 
 :tada: :tada: Jogo de Javascript de programação.
+:fire: :fire:
