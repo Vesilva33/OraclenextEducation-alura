@@ -1,12 +1,13 @@
 # Oracle Next Education
 
-![JAVASCRIPT](https://img.shields.io/badge/javascript-239120?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <h1>A tecnologia é para todos</h1>
 
 
-  
-![JAVASCRIPT](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
  
 
@@ -15,3 +16,6 @@ O curso é 100% online e totalmente gratuito, feito para quem não teve acesso �
 
 :tada: :tada: Jogo de Javascript de programação.
 :fire: :fire:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
