@@ -1,6 +1,6 @@
 # Oracle Next Education
 
-![JAVASCRIPT](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-239120?style=for-the-badge&logo=python&logoColor=white)
 
 <h1>A tecnologia é para todos</h1>
 
