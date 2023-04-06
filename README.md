@@ -8,6 +8,8 @@
 
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<h1>JavaScript e HTML: desenvolva um jogo e pratique lógica de programação</h1>
+<p>:fire: :fire:Aprendendo a manipular o javascript entendendo logica de programação variaveis,funções.</p> 
 
  
 
