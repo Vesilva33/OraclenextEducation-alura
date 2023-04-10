@@ -1,0 +1,29 @@
+<meta charset="UTF-8">
+<script>
+    function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+ var vitorias = parseInt(prompt ("Entre com numero de vitorias"));
+ var empates = parseInt(prompt ("Entre com numero de empates"));
+
+ var pontos = (vitorias * 3)+ empates;
+
+ mostra("numero de pontos e" + pontos);
+
+ if( pontos > 28){
+      mostra("SEU TIME ESTA MELHOR ANO PASSADO");
+ }
+ if (pontos < 28){
+        mostra("SEU TIME ESTA PIOR ANO PASSADO");
+ }
+ if (pontos== 28)  {     
+ mostra("SEU TIME ESTA IGUAL ANO PASSADO");
+ }
+
+ mostra("Fim..........");
+</script>    
