@@ -23,6 +23,13 @@ O curso é 100% online e totalmente gratuito, feito para quem não teve acesso �
 
 :tada: :tada: Jogo de Javascript de programação.</br>
 :fire: :fire: variaveis interação com usuario.
+:fire: :fire: Animações e jogos em Javascript. 
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<h1>HTML5 E CSS3  Crie uma pagina da web </h1>
+<p>:tada: :tada:primeiros passos no html5 e css3  aprendendo a criar e aplicar estilos no site da barbaria alura.</p>
+<p>:tada: :tada: Posicionamentos listas de navegação</p>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
